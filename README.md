@@ -26,6 +26,7 @@ USEAGE
 ======
 
 Example:
+
 	public class Hello {
 		public static void main(String[] args) {
 			System.out.println("Hello World!");
@@ -36,4 +37,4 @@ Save file as Hello.java
 
 Then press `Command` + `B`
 
-![Screenshot](https://www.dropbox.com/s/lpngbuzvf68acw4/screenshot.jpg)
+![Screenshot](https://dl-web.dropbox.com/get/Photos/screenshot.jpg?w=AADO_AO6m8oeQCmFVxLbRBIm2ajmoOKHxJwnMY_Sp7aivQ)
