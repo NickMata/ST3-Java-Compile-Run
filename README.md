@@ -25,8 +25,8 @@ Then save the file.
 USEAGE
 ======
 
-Example:
---------
+### Example:
+
 
 	public class Hello {
 		public static void main(String[] args) {
