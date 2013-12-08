@@ -36,4 +36,4 @@ Save file as Hello.java
 
 Then press `Command` + `B`
 
-![Alt text](/screenshot.jpg "ScreenShot")
+![Alt text](https://www.dropbox.com/s/lpngbuzvf68acw4/screenshot.jpg "ScreenShot")
