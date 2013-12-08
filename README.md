@@ -25,7 +25,7 @@ A new file will open and overwrite the text with
 
 Then save the file.
 
-USEAGE
+USAGE
 ======
 
 Press `Command` + `B` or `Tools`->`Build` on any .java file
