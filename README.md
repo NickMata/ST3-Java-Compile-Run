@@ -25,7 +25,10 @@ Then save the file.
 USEAGE
 ======
 
-### Example:
+Press `Command` + `B` or `Tools`->`Build` on any .java file
+
+
+####### Example:
 
 
 	public class Hello {
