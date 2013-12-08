@@ -6,8 +6,11 @@ Custom Build System for Sublime Text 3. That compiles and runs Java Application 
 Installation
 ============
 
+###### First Step:
+
 Copy JavaCR.sh to `/usr/bin/`
 
+###### Second Step:
 
 Open up Sublime Text 3
 
