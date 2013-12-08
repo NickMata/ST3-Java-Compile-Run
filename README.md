@@ -7,4 +7,4 @@ Installation
 ============
 
 Open up Sublime Text 3
-Go to 'Tools'
+Go to `Tools`
