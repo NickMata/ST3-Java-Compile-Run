@@ -6,7 +6,7 @@ Custom Build System for Sublime Text 3. That compiles and runs Java Application 
 Installation
 ============
 
-Place JavaCR.sh in `/usr/bin/`
+Copy JavaCR.sh to `/usr/bin/`
 
 
 Open up Sublime Text 3
@@ -35,6 +35,6 @@ Example:
 
 Save file as Hello.java
 
-Then press `Command` + `B`
+Then press `Command` + `B` or `Tools`->`Build`
 
 ![Screenshot](https://dl-web.dropbox.com/get/Photos/screenshot.jpg?w=AADO_AO6m8oeQCmFVxLbRBIm2ajmoOKHxJwnMY_Sp7aivQ)
