@@ -28,7 +28,7 @@ USEAGE
 Press `Command` + `B` or `Tools`->`Build` on any .java file
 
 
-####### Example:
+###### Example:
 
 
 	public class Hello {
